@@ -1,3 +1,7 @@
 # hello-world
 
-denden
+#include <stdio.h>
+ 
+void main(){
+    printf("HelloWorld.¥n");
+}
